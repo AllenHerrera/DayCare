@@ -2,7 +2,7 @@
 
 define('APPLICATION', 'demo');
 
-define('BASE_PATH', 'C:/xampp/htdocs');
+define('BASE_PATH', '/home2/allenher/');
 
 define('PUBLIC_PATH', BASE_PATH."/public/");
 
