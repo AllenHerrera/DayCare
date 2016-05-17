@@ -2,8 +2,8 @@
 $start = microtime();
 session_start();
 
-require_once "/config.php";
-require_once "/init.php";
+require_once "config.php";
+require_once "init.php";
 
 //ini_set('display_errors', true);
 $registry = new \Registry();
