@@ -2,7 +2,7 @@
 
 define('APPLICATION', 'demo');
 
-define('BASE_PATH', 'allen-herrera.com');
+define('BASE_PATH', '/home2/allenher/public_html');
 
 define('PUBLIC_PATH', BASE_PATH."/public/");
 

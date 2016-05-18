@@ -1,7 +1,7 @@
 <?php
 
 function my_autoloader($class) {
-
+  $class = str_replace("\\","/",$class);
   if(file_exists(ENGINE. $class . '.php')) {
 
     include ENGINE . $class . '.php';
