@@ -7,7 +7,7 @@ body {
 }
 
 #wrapper {
-  max-width: 940px;
+  max-width: 100%;
   margin: 0 auto;
   padding: 0 5%;
 }
@@ -219,17 +219,3 @@ nav a, nav a:visited {
 nav a.selected, nav a:hover {
   color: #32673f;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
