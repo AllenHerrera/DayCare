@@ -13,8 +13,8 @@ define('LIBRARY', SYSTEM."library/");
 define('PACKAGE', SYSTEM."package/");
 
 define( 'DB_HOST', 'localhost' ); // set database host
-define( 'DB_USER', 'root' ); // set database user
-define( 'DB_PASS', 'root' ); // set database password
-define( 'DB_NAME', 'dc_ourlittlehouse' ); // set database name
+define( 'DB_USER', 'allenher_allen' ); // set database user
+define( 'DB_PASS', 'spider123' ); // set database password
+define( 'DB_NAME', 'allenher_day_care' ); // set database name
 define( 'SEND_ERRORS_TO', 'you@yourwebsite.com' );
 ?>
