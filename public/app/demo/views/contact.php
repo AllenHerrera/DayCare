@@ -4,7 +4,7 @@ class contactView extends \Loader {
 
 	public function index($view, $data) {
 
-		$body =$this->view(PACKAGE.APPLICATION.$view.'.html',$data);
+		$body =$this->view(APP.APPLICATION."/views/snippets/".$view.'.html',$data);
 		//echo $body;
 	}
 }
